@@ -1,0 +1,8 @@
+// ENV
+*.env
+
+// Modules
+node_modules/
+
+// Outputs
+outputs/
